@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+h3 {
+    color: darkgoldenrod;
+    background-color: black;
+    padding: 30px;
+    font-size: 45px;
+    margin-left: 35%;
+}
+
+img {
+    margin-left: 35%;
+    height: 200;
+}
+
+h4 {
+    color: darkorange;
+    margin-left: 25%;
+    font-size: 30px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: aquamarine;
+    font-size: medium;
+    margin-left: 10%;
+}
+
+.nav img {
+    width: 10%;
+    margin-left: 90%;
+}
